@@ -1,0 +1,1 @@
+drop table if EXISTS course_user_partiton_22_ss CASCADE;
